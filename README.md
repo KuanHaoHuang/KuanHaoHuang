@@ -1,4 +1,4 @@
-## I'm Kuan-Hao Huang, a Data Scientist from Taiwan
+## I'm [Kuan-Hao Huang][linkedin], a Data Scientist from Taiwan
 
 <!--
 **KuanHaoHuang/KuanHaoHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,9 +9,9 @@
 - 🔭  I’m currently working on Data Analytics for mobile games at <a href="https://www.rayark.com/"  target="_blank"><img alt="Rayark" src="https://www.rayark.com/images/logo.png" width="50px"></a>
 - 🚀  I utilize Statistical Analysis, Data Visualization, and Machine Learning to create **business impact** 💰
 - ⚡  I’m passionate about Machine Learning competitions
-- ✏️  I own a [blog](https://HaoSquare.com) in Mandarin. I write about data science, Python, and the book or online courses I enjoyed
+- ✏️  I own a [blog][blog] in Mandarin. I write about data science, Python, and the book or online courses I enjoyed
 - 💬  I'd love to have a conversation with you in English 🇺🇸, Mandarin 🇹🇼, or Japanese 🇯🇵
-- 🎸  I'm a guitar enthusiast as well. I share my playing on <img alt="Kuan-Hao | LinkedIn" width="22px" href="https://www.youtube.com/channel/UCvSWeApVRUf3weM52MdzB7g" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" /> [YouTube](https://www.youtube.com/channel/UCvSWeApVRUf3weM52MdzB7g) every now and then
+- 🎸  I'm a guitar enthusiast as well. I share my playing on [<img alt="Kuan-Hao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/youtube.svg" />][youtube] [YouTube][youtube] every now and then
 
 ### Recent Project Highlights
 - 🤠  Won **11th** place (top 1%) in a credit card fraud detection competition using XGBoost ([Github: R Code](https://github.com/KuanHaoHuang/tbrain-esun-fraud-detection))
@@ -22,9 +22,15 @@
 
 ### Connect with Kuan-Hao
 
-<img align="left" alt="Kuan-Hao | Email" width="22px" href="kuan.hao.huang.b02@gmail.com" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  />
-<img align="left" alt="Kuan-Hao | Blog" width="22px" href="https://HaoSquare.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/browser.svg" />
-<img align="left" alt="Kuan-Hao | Facebook" width="22px" href="https://www.facebook.com/HaoSquare/" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
-<img align="left" alt="Kuan-Hao | LinkedIn" width="22px" href="https://www.linkedin.com/in/kuanhaohuang/" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
+[<img align="left" alt="Kuan-Hao | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  />][email]
+[<img align="left" alt="Kuan-Hao | Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/browser.svg" />][blog]
+[<img align="left" alt="Kuan-Hao | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Kuan-Hao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+[blog]: https://HaoSquare.com
+[facebook]: https://www.facebook.com/HaoSquare/
+[email]: mailto:kuan.hao.huang.b02@gmail.com
+[youtube]: https://www.youtube.com/channel/UCvSWeApVRUf3weM52MdzB7g
+[linkedin]: https://www.linkedin.com/in/kuanhaohuang/
