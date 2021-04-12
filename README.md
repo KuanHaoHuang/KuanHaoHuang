@@ -16,7 +16,7 @@
 ### Recent Project Highlights
 - 🤠  Won **11th** place (top 1%) in a credit card fraud detection competition using XGBoost ([Github: R Code](https://github.com/KuanHaoHuang/tbrain-esun-fraud-detection))
 - 🥳  Won **17th** place (top 2%) in a financial product transaction prediction competition using RNN Deep Learning model
-- 🙂  Won **18th** place (top 5%) in a image landmark detection competition using ResNet-Based Deep Learning model
+- 🙂  Won **18th** place (top 5%) in a image landmark detection competition using ResNet-Based Deep Learning model ([Github: PyTorch Code](https://github.com/KuanHaoHuang/AIdea-foot-image-analysis))
 - 🤖  Developed Union-Find algorithm to solve Multi-channel Contacts Problem in Shopee Code League 2021 ([Github: Python3 Code](https://github.com/KuanHaoHuang/shopee-code-league-2021-multi-channel-contacts-problem), [Blog Post](https://haosquare.com/shopee-code-league-2021-data-analytics/))
 - 🧪  Orchestrated A/B testing process, reduced more than 20% Type-1 error rate ([Github: Tutorial](https://github.com/KuanHaoHuang/learn-ab-testing), [Blog Post](https://haosquare.com/ab-testing-peeking/))
 
